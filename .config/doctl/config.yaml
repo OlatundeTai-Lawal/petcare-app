@@ -7,7 +7,7 @@
     format: ""
     no-header: false
     type: ""
-access-token: dop_v1_41d730f62d38bc17083f6405afe6b5eb4bee0c1e778b640b222e971b9e778884
+access-token: 
 account:
   get:
     format: ""
@@ -160,7 +160,7 @@ apps:
     trigger-deployment: true
 auth:
   init:
-    token-validation-server: https://cloud.digitalocean.com
+    token-validation-server: 
   list:
     format: ""
 balance:
@@ -820,7 +820,7 @@ registry:
   login:
     expiry-seconds: 0
   logout:
-    authorization-server-endpoint: https://cloud.digitalocean.com/v1/oauth/revoke
+    authorization-server-endpoint
 replica:
   create:
     private-network-uuid: ""
