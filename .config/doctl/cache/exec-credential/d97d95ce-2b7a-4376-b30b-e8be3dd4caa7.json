@@ -1,1 +1,1 @@
-{"kind":"ExecCredential","apiVersion":"client.authentication.k8s.io/v1beta1","spec":{"interactive":false},"status":{"expirationTimestamp":"2023-09-09T01:04:18Z","token":"dop_v1_1f3e06118620f5c56a4ff6fd300487a77c6e9444cb3e17febb82f75c2eed05e7"}}
+
